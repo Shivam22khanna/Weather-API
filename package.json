@@ -1,0 +1,15 @@
+{
+  "name": "weather-info",
+  "version": "1.0.0",
+  "description": "this is weather website",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
